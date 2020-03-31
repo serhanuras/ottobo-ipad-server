@@ -1,5 +1,4 @@
-# dependencies
 /node_modules
-/.pnp
-.pnp.js
-/public
+npm-debug.log
+.DS_Store
+/*.env
